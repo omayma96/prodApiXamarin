@@ -1,0 +1,17 @@
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.dll
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\ref\prdApi.dll
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\prdApi.pdb
+C:\Users\Youcode\Desktop\prdApi\prdApi\bin\Debug\netstandard2.0\prdApi.deps.json
+C:\Users\Youcode\Desktop\prdApi\prdApi\bin\Debug\netstandard2.0\prdApi.dll
+C:\Users\Youcode\Desktop\prdApi\prdApi\bin\Debug\netstandard2.0\ref\prdApi.dll
+C:\Users\Youcode\Desktop\prdApi\prdApi\bin\Debug\netstandard2.0\prdApi.pdb
+C:\Users\Youcode\Desktop\prdApi\prdApi\obj\Debug\netstandard2.0\XamlC.stamp
